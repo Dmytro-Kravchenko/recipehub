@@ -1,0 +1,22 @@
+.link {
+  text-decoration: none;
+  color: #ddd6cb;
+  font-weight: bold;
+  padding: 0.5rem 0.8rem;
+  border-radius: 0.5rem;
+}
+
+@media (max-width: 600px) {
+  .link {
+    font-size: 0.9rem;
+  }
+}
+
+.link:hover,
+.link:active {
+  color:#FFD700;
+}
+
+.active {
+  color:#FFD700;
+}
