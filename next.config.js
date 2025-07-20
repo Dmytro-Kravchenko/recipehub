@@ -10,9 +10,7 @@ const nextConfig = {
       }
     ]
   },
-    experimental: {
-    outputFileTracing: false,
-  },
+  outputFileTracing: false,
 }
 
 module.exports = nextConfig
