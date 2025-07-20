@@ -6,7 +6,7 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'recipehub-images-collection.s3.eu-north-1.amazonaws.com',
         port: '',
-        pathname: '/**'
+        pathname: '**'
       }
     ]
   }
